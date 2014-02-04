@@ -2,4 +2,5 @@
 <resources>
 	<string name="app_name">AndroidSample</string>
 	<string name="tree_string">If a tree falls...</string>
+	<string name="another">One of many untranslated strings</string>
 </resources>
